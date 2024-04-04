@@ -1,0 +1,9 @@
+
+## Vim swapfiles ##
+*.swp
+
+## Verilator generated files ##
+obj_dir
+*.vcd
+.stamp.verilate
+
